@@ -1,0 +1,36 @@
+[
+    {
+        "id_transaksi": "G2P46V1WZ4",
+        "username": "abel",
+        "waktu_transaksi": "08-11-2024 03:30:49",
+        "tanggal_kembali": "15-11-2024",
+        "durasi": 7,
+        "total_harga": 3150000.0,
+        "items": [
+            {
+                "id_produk": 5,
+                "nama_produk": "Camera Sony A7R IV Mirrorless (FF 61MP)",
+                "kategori": "Kamera",
+                "harga_per_hari": 450000,
+                "harga_per_3_hari": 900000,
+                "durasi": 7,
+                "harga_awal": 2250000,
+                "diskon_persen": 10,
+                "diskon_nominal": 225000.0,
+                "harga_akhir": 2025000.0
+            },
+            {
+                "id_produk": 1,
+                "nama_produk": "Canon EF 14mm f/2.8 L II USM Lens",
+                "kategori": "Lensa",
+                "harga_per_hari": 250000,
+                "harga_per_3_hari": 500000,
+                "durasi": 7,
+                "harga_awal": 1250000,
+                "diskon_persen": 10,
+                "diskon_nominal": 125000.0,
+                "harga_akhir": 1125000.0
+            }
+        ]
+    }
+]
