@@ -13,11 +13,14 @@
 </p>
 
 ## 📚 Daftar Isi
+- [� Daftar Isi](#-daftar-isi)
 - [👥 Profil](#-profil)
 - [🚀 Tentang](#-tentang)
 - [📖 Flowchart](#-flowchart)
 - [🖥️ Penjelasan Output](#️-penjelasan-output)
-- [⌨️ Panduan Menjalankan Program](#-panduan-menjalankan-program)
+- [⌨️ Penggunaan Program](#️-penggunaan-program)
+  - [Persyaratan Sistem](#persyaratan-sistem)
+  - [Langkah-Langkah Menjalankan Program](#langkah-langkah-menjalankan-program)
 
 ## 👥 Profil
 **Kelompok 3**
@@ -335,7 +338,7 @@ Program ini mendukung kemudahan dan keamanan bagi pengguna dalam mengakses layan
 
 </details>
 
-## ⌨️ Panduan Menjalankan Program
+## ⌨️ Penggunaan Program
 
 ### Persyaratan Sistem
 Pastikan sistem Anda memenuhi persyaratan berikut sebelum menjalankan program ini:
