@@ -18,8 +18,6 @@
 - [📖 Flowchart](#-flowchart)
 - [🖥️ Penjelasan Output](#️-penjelasan-output)
 - [⌨️ Petunjuk Instalasi dan Penggunaan](#️-petunjuk-instalasi-dan-penggunaan)
-  - [Persyaratan Sistem](#persyaratan-sistem)
-  - [Langkah-Langkah Menjalankan Program](#langkah-langkah-menjalankan-program)
 
 ## 👥 Profil
 **Kelompok 3**
