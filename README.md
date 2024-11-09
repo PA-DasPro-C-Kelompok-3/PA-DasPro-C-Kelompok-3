@@ -36,7 +36,7 @@ Program ini adalah aplikasi sederhana yang dikembangkan dengan bahasa pemrograma
 - **`os`**: Membersihkan layar terminal.
 - **`pwinput`**: Menyamarkan input kata sandi.
 - **`time`**: Mengatur jeda proses.
-- **`json`**: Menyimpan data pengguna, produk, dan transaksi.
+- **`json`**: Menyimpan data pengguna, produk, isi keranjang, dan transaksi.
 - **`random`** dan **`string`**: Membuat ID transaksi secara acak dan unik.
 
 **2. Variabel Global** <br>
@@ -59,7 +59,7 @@ Admin memiliki akses ke fitur CRUD (Create, Read, Update, Delete) untuk mengelol
 Program ini menyimpan data pengguna, produk, keranjang, dan transaksi dalam file JSON, sehingga data tetap tersimpan meskipun program ditutup.
 
 **7. Kesimpulan** <br>
-Program ini mendukung kemudahan dan keamanan bagi pengguna dalam mengakses layanan rental alat fotografi, dengan fitur autentikasi, pengelolaan saldo, pemesanan produk, dan tampilan data dalam bentuk tabel.
+Program ini mendukung kemudahan dan keamanan bagi pengguna dalam mengakses layanan rental alat fotografi, dengan fitur autentikasi, pengelolaan saldo, penyewaan peralatan, dan tampilan data dalam bentuk tabel.
 
 ## 📖 Flowchart
 
