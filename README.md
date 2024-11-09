@@ -389,7 +389,7 @@ Proyek ini menggunakan beberapa library eksternal seperti pwinput dan prettytabl
   ```bash
   pip install pwinput prettytable
   ```
-Program ini juga menggunakan library seperti json, time, datetime, random, dan string, yang tersedia di Python secara default.
+Program ini juga menggunakan library seperti json, time, datetime, random, os, dan string, yang tersedia di Python secara default.
 
 **5. Menjalankan Program**
 
