@@ -1,6 +1,17 @@
 <a name="top"></a>
 <img src="https://github.com/user-attachments/assets/dd22e8db-6073-4cd4-a2e1-b16451933f85" alt="" width="100%">
 
+![Forks](https://img.shields.io/github/forks/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg)
+![Stars](https://img.shields.io/github/stars/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg?style=social&label=Stars)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-0078D4.svg?&logo=visual-studio&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+![Dora Foto | Doni, Rafly, & Aris](https://img.shields.io/badge/📸%20Dora%20Foto%20%7C%20Doni,%20Rafly,%20%26%20Aris-000000?style=flat&logoColor=black&color=white)
+
 <p align="center">
     Selamat Datang di Panduan Program Sistem Manajemen Rental Peralatan Fotografi DORA FOTO!  
 </p>
@@ -10,6 +21,7 @@
 - [🚀 Tentang](#-tentang)
 - [📖 Flowchart](#-flowchart)
 - [🖥️ Penjelasan Output](#️-penjelasan-output)
+- [⌨️ Panduan Menjalankan Program](#-panduan-menjalankan-program)
 
 ## 👥 Profil
 **Kelompok 3**
@@ -326,6 +338,68 @@ Program ini mendukung kemudahan dan keamanan bagi pengguna dalam mengakses layan
 <p align="justify">Jika pengguna memasukkan selain 1-6 atau input yang dimasukkan tidak valid, maka program akan memberikan pesan error dan pengguna diminta untuk mengulangi input.</p>
 
 </details>
+
+## ⌨️ Panduan Menjalankan Program
+
+### Persyaratan Sistem
+Pastikan sistem Anda memenuhi persyaratan berikut sebelum menjalankan program ini:
+
+- **Python**: Versi 3.6 atau terkini. Anda bisa mengunduh Python dari [python.org](https://www.python.org/downloads/).
+- **Git**: Pastikan Git terinstal di sistem Anda. Panduan instalasi Git ada di bagian selanjutnya.
+
+### Langkah-Langkah Menjalankan Program
+
+**1. Instalasi Git (Kalau belum terinstal)**
+
+  1. Buka [Git untuk Windows](https://git-scm.com/downloads/win) dan unduh file instalasi. Pilih sesuai dengan spesifikasi atau ketentuan sistem yang anda gunakan.
+  2. Jalankan file tersebut dan ikuti petunjuk instalasi.
+  3. Setelah selesai, buka **Command Prompt** dan ketik `git --version` untuk memastikan Git terinstal dengan benar.
+
+- **MacOS:**
+  1. Buka **Terminal** dan ketik perintah berikut untuk menginstal Git:
+     ```bash
+     brew install git
+     ```
+   2. Jika tidak menggunakan Homebrew, Anda bisa mengunduh Git dari [Git-SCM](https://git-scm.com/download/mac).
+
+- **Linux (Ubuntu/Debian):**
+  1. Buka **Terminal** dan jalankan:
+     ```bash
+     sudo apt update
+     sudo apt install git
+     ```
+  2. Ketik `git --version` untuk memastikan Git terinstal.
+
+**2. Clone Repositori Proyek**
+
+Buka terminal atau command prompt, lalu gunakan perintah berikut untuk mengunduh repositori ke komputer Anda:
+
+  ```bash
+  git clone https://github.com/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.git
+  ```
+Perintah ini akan mengunduh semua file proyek ke folder PA-DasPro-C-Kelompok-3 di direktori saat ini.
+
+**3. Masuk ke Direktori Proyek**
+
+Setelah repositori berhasil di-clone, masuk ke direktori proyek dengan perintah berikut:
+
+  ```bash
+  cd PA-DasPro-C-Kelompok-3
+  ```
+**4. Instalasi Library yang Diperlukan**
+
+Proyek ini menggunakan beberapa library eksternal seperti pwinput dan prettytable. Jalankan perintah berikut untuk menginstal library yang diperlukan:
+
+  ```bash
+  pip install pwinput prettytable
+  ```
+Program ini juga menggunakan library seperti json, time, datetime, random, dan string, yang tersedia di Python secara default.
+
+**5. Menjalankan Program**
+
+  ```bash
+  python dora_foto.py
+  ```
 
 ---
 > [!NOTE]
