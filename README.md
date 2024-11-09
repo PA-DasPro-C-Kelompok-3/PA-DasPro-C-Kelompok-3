@@ -17,7 +17,7 @@
 - [🚀 Tentang](#-tentang)
 - [📖 Flowchart](#-flowchart)
 - [🖥️ Penjelasan Output](#️-penjelasan-output)
-- [⌨️ Penggunaan Program](#️-penggunaan-program)
+- [⌨️ Petunjuk Instalasi dan Penggunaan](#️-petunjuk-instalasi-dan-penggunaan)
   - [Persyaratan Sistem](#persyaratan-sistem)
   - [Langkah-Langkah Menjalankan Program](#langkah-langkah-menjalankan-program)
 
@@ -337,7 +337,7 @@ Program ini mendukung kemudahan dan keamanan bagi pengguna dalam mengakses layan
 
 </details>
 
-## ⌨️ Penggunaan Program
+## ⌨️ Petunjuk Instalasi dan Penggunaan
 
 ### Persyaratan Sistem
 Pastikan sistem Anda memenuhi persyaratan berikut sebelum menjalankan program ini:
