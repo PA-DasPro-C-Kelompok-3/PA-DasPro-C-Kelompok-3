@@ -3,10 +3,6 @@
 
 ![Forks](https://img.shields.io/github/forks/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg)
 ![Stars](https://img.shields.io/github/stars/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg?style=social&label=Stars)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-0078D4.svg?&logo=visual-studio&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
