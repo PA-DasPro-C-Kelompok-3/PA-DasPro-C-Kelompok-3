@@ -13,7 +13,6 @@
 </p>
 
 ## 📚 Daftar Isi
-- [� Daftar Isi](#-daftar-isi)
 - [👥 Profil](#-profil)
 - [🚀 Tentang](#-tentang)
 - [📖 Flowchart](#-flowchart)
