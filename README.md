@@ -3,7 +3,7 @@
 
 ![Forks](https://img.shields.io/github/forks/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg)
 ![Stars](https://img.shields.io/github/stars/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg?style=social&label=Stars)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-0078D4.svg?&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![Dora Foto | Doni, Rafly, & Aris](https://img.shields.io/badge/📸%20Dora%20Foto%20%7C%20Doni,%20Rafly,%20%26%20Aris-000000?style=flat&logoColor=black&color=white)
